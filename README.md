@@ -1,4 +1,4 @@
 lab3
 ====
 
-Lab 3 for Intro HCI: client-side interactivity
+Lab 3 for Winter 2017 COGS120/CSE170 Interaction Design: client-side interactivity
